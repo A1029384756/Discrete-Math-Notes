@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "11931005959fe113",
+    "type": "split",
+    "children": [
+      {
+        "id": "823635a080f8e8ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bf35a367089df51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Divisibility.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3130f31ae0206d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Proofs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eabfac8a5cbe07a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9f0297963daebfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46f8bc2c0cd136b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1c904cc38a69321",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3d33a454e5a1a44",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 406.5
+  },
+  "right": {
+    "id": "1e1d0e0c28a553bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "953c51be843dfaee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6bce61c9323553f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mathematical Proofs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fb279c54ba667d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematical Proofs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b17b9031fdc73568",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f71f270a9ee9e7cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mathematical Proofs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a3130f31ae0206d9",
+  "lastOpenFiles": [
+    "Mathematical Proofs.md",
+    "Divisibility.md",
+    "Direct Proof Pra.md",
+    "Pfoos.md",
+    "Rational Numbers.md",
+    "Expression Identities.md",
+    "Conditional Statements.md",
+    "direct proofs.md",
+    "uuu.md",
+    "Quantifiers.md"
+  ]
+}

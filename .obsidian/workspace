@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "11931005959fe113",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bf35a367089df51",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Divisibility.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eabfac8a5cbe07a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9f0297963daebfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46f8bc2c0cd136b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1c904cc38a69321",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3d33a454e5a1a44",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334
+  },
+  "right": {
+    "id": "1e1d0e0c28a553bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "953c51be843dfaee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6bce61c9323553f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Divisibility.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fb279c54ba667d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Divisibility.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b17b9031fdc73568",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f71f270a9ee9e7cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Divisibility.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2bf35a367089df51",
+  "lastOpenFiles": [
+    "Rational Numbers.md",
+    "Mathematical Proofs.md",
+    "direct proofs.md",
+    "uuu.md",
+    "Quantifiers.md",
+    "Logical Operations.md",
+    "Logical Equivalence.md",
+    "Knowing what is True.md",
+    "Expression Identities.md",
+    "Conditional Statements.md"
+  ]
+}
