@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f10da41d4810fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contrapositive Proof Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Proofs.md",
+                "file": "Contrapositive Proof Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Proofs.md",
+                "file": "Contrapositive Proof Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematical Proofs.md"
+                "file": "Contrapositive Proof Form.md"
               }
             }
           }
@@ -152,7 +164,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a3130f31ae0206d9",
+  "active": "8f10da41d4810fe0",
   "lastOpenFiles": [
     "Mathematical Proofs.md",
     "Divisibility.md",

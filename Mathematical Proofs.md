@@ -162,3 +162,9 @@ Therefore, by direct proof $\forall n \in \mathbb{Z}, n^2-n \text{ even }$.
 
 >Any time you can separate the domain into categories which together cover the problem domain, you can break these categories into cases and prove the claim for each category separately as shown above.
 
+<b>Claim:</b> For any 3-digit number, if the sum of the digits is divisible by $3$, then the number itself is also divisible by $3$.
+<b>Logic:</b> $\forall a_{100},a_{10},a_1 \in \{0,...,9\}, 3|a_{100}+a_{10}+a+1 \rightarrow 3|100*a_{100}+10*a_{10}+1*a_1$
+<b>Scratchwork:</b> How to rewrite the then-part in terms of the if-part?
+$100a_{100}+10a_{10}+1a_1=99a_{100}+9a_{10}+(a_{100}+a_{10}+a_1)$
+Assuming, $3|(a_{100}+a_{10}+a_1)$
+<b>Proof:</b>
