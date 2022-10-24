@@ -167,4 +167,18 @@ Therefore, by direct proof $\forall n \in \mathbb{Z}, n^2-n \text{ even }$.
 <b>Scratchwork:</b> How to rewrite the then-part in terms of the if-part?
 $100a_{100}+10a_{10}+1a_1=99a_{100}+9a_{10}+(a_{100}+a_{10}+a_1)$
 Assuming, $3|(a_{100}+a_{10}+a_1)$
+
 <b>Proof:</b>
+- Let $a_{100},a_{10},a_1$ be arbitrary/particular numbers in $\{0,1,...,9\}$.
+- Assume $3|(a_{100} + a_{10} + a_1)$.
+- Consider $a_{100} + a_{10} + a_1$. WTS $3|(100a_{100} + 10a_{10} + a_1)$. 
+- Note, $100a_{100} + 10a_{10} + a_1 = (99+1)a_{100} + a_{10} + a_1$ by evaluation.
+- $= 99a_{100}+a_{100}+9a_{10}+a_{10}+a_1$ by substitution.
+- $= 99a_{100}+9a_{10}+(a_{100}+a_{10}+a_1)$, by commutativity of addition.
+- WTS $99a_{100}$ and $9a_{10}$ are multiples of $3$.
+- Note, as $9 = 3*3$ with $3 \in \mathbb{Z}$, $3|9$ by defintion of divides.
+- Further, as $3|9$, $3|9a_{10}$ by fact from class.
+- Next, as $99 = 3*33$, with $33 \in \mathbb{Z}$, $3|99$ by defintion of divides.
+- Again, as $3|99$, $3|99a_{100}$ by fact from class.
+- Thus, since $3|99a_{100}$ and $3|9a_{10}$ and $3|(a_{100}+a_{10}+a_1)$, $3|(99a_{100}+9a_{10}+(a_{100}+a_{10}+a_1)) = 100a_{100}+10a_{10}+a_1$, by fact from class.
+- Therefore, by direct proof: $\forall a_{100},a_{10},a_1 \in \{0,...,9\}, 3|a_{100}+a_{10}+a+1 \rightarrow 3|100*a_{100}+10*a_{10}+1*a_1$
