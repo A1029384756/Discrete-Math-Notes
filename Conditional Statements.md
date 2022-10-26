@@ -1,5 +1,5 @@
 ### Conditional Statements
-Compound statements containing $\text{"} \rightarrow \text{"}$
+Compound statements containing $\text{"} \rightarrow \text{"}$ ^d2f73f
 
 [[Logical Operations#^600c2f]]
 
@@ -31,6 +31,8 @@ A. $\text{Louie is a cat} \rightarrow \text{Louie is a mammal} \equiv T$
 >Which of these is <u>saying the same thing</u> as A? (Contrapositive)
 ><b>Recall:</b>
 >	Two expressions are saying the same thing not if they just coincidentally have the same truth value but if as expressions, their forms are equivalent.
+
+^9b0b4f
 
 Ex. |
 - I want a burger and fries or a burger and tots.

@@ -7,5 +7,7 @@ Can break down all numbers into primes.
 $\forall p \in \mathbb{Z}, p \text{ prime } \leftrightarrow p > 1 \land [\forall a,b \in \mathbb{N}, p = ab \rightarrow 1=a  \lor p = a]$
 <b>Fundamental Theorem of Arithmetic:</b> Every positive integer $n>1$ can be written <u>uniquely</u> as a product of primes, $n=p_1,p_2,...p_k$.
 
-<b>Claim:</b> $\forall a \in \mathbb{Z} 32 | 5a \rightarrow 32|a$
-
+<b>Claim:</b> $\forall n \in \mathbb{Z} 5 | 32n \rightarrow 32|n$
+<b>Unofficial Proof:</b>
+$5|32n \Rightarrow 32n = 5p_1p_2p_3...$
+$32n = 5*2*2*2*2*2*p_1p_2p_3...$

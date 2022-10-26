@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "823635a080f8e8ba",
+        "id": "011af01ae0eb39a8",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf35a367089df51",
+            "id": "b84f8a69da5dbf4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divisibility.md",
+                "file": "Conditional Statements.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a3130f31ae0206d9",
+            "id": "00e45bf706953e9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Proofs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6adb6594ad28bc17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modular Arithmetic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d434ecb7b4530253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primes.md",
+                "file": "Indirect Proof.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 231.5
   },
   "right": {
     "id": "1e1d0e0c28a553bc",
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primes.md",
+                "file": "Indirect Proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primes.md",
+                "file": "Indirect Proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primes.md"
+                "file": "Indirect Proof.md"
               }
             }
           }
@@ -176,17 +152,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d434ecb7b4530253",
+  "active": "00e45bf706953e9d",
   "lastOpenFiles": [
-    "Modular Arithmetic.md",
-    "Mathematical Proofs.md",
-    "Divisibility.md",
-    "Contrapositive Proof Form.md",
-    "Direct Proof Pra.md",
-    "Pfoos.md",
-    "Rational Numbers.md",
-    "Expression Identities.md",
     "Conditional Statements.md",
-    "direct proofs.md"
+    "Logical Operations.md",
+    "Rational Numbers.md",
+    "Indirect Proof.md",
+    "Contrapositive Proof Form.md",
+    "Expression Identities.md",
+    "Direct Proof.md",
+    "Divisibility.md",
+    "Logical Equivalence.md",
+    "Compound Statements.md"
   ]
 }
