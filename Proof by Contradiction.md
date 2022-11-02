@@ -9,7 +9,7 @@ Form of [[Indirect Proof]]
 <b>Logic:</b>  $\forall n \in \mathbb{Z}, \sim (n \text{ even } \land \text{ odd })$
 <b>Negation:</b>  $\exists n \in \mathbb{Z} | n \text{ even } \land n \text{ odd}$
 <b>Proof:</b>  Proof by contradiction.  Suppose for sake of contradiction, the negation is true. i.e: $\exists n \in \mathbb{Z} | n \text{ even } \land n \text{ odd}$.
-- Since $n$ even, $n = 2k$$ for some $k \in \mathbb{Z}$ by definition.
+- Since $n$ even, $n = 2k$ for some $k \in \mathbb{Z}$ by definition.
 - Since $n$ odd, $n = 2j + 1$$ for some $j \in \mathbb{Z}$ by definition.
 - Consider, $n = 2k$. If $n = 2k \Rightarrow, 2k = 2j +1$ by substitution.
 - $1 = 2k -2j$ by subtracting $2j$ from both sides.

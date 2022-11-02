@@ -22,6 +22,6 @@
 - Thus, as $n^2 = 2(2k^2+2k)+1$ with $2k^2+2k \in \mathbb{Z}$, $n^2$ odd by definition.
 - Therefore, by direct proof, $\forall n \in \mathbb{Z}, n \text{ odd } \rightarrow n^2 \text{ odd}$.
 - Hence, by contrapositive, $\forall n \in \mathbb{Z}, n^2 \text{ even } \rightarrow n \text { even}$.
-
+---
 - [[Proof by Contrapositive]]
 - [[Proof by Contradiction]]

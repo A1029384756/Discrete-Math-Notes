@@ -2,12 +2,12 @@
 > Maybe: $\text{"From a we deduce B" is valid if } A \rightarrow B \equiv T \text{ and invalid if } A \rightarrow B \equiv F$
 > Problem: $\text{Burt is a mammal} \rightarrow \text{ Burt is a cat} \equiv T \rightarrow T \equiv T$. But it is not true that Burt is a mammal $\Rightarrow$ Burt is a cat
 
-The issue is that <b>if-then</b> ([[Logical Operations]]) [[Statements]] alone are prone to coincidences.  Just because $p \rightarrow q \equiv T$ does not mean that anything with the form of p wil lead to something with the form of q.
+The issue is that <b>if-then</b> ([[Logical Operations]]) [[Statement|Statements]] alone are prone to coincidences.  Just because $p \rightarrow q \equiv T$ does not mean that anything with the form of p wil lead to something with the form of q.
 
 ---
 
 # Predicates
-<b>Def:</b> A predicate is a sentence with a variable which becomes a [[Statements]] when something from its domain (set of acceptable inputs) is plugged in for the variable.
+<b>Def:</b> A predicate is a sentence with a variable which becomes a [[Statement]] when something from its domain (set of acceptable inputs) is plugged in for the variable.
 
 Ex: $P(x) \equiv x$ is bald, with domain $D = { \text{set of all people} }$
 Ex: $Q(a) \equiv \text{a is a cat}$, with domain $E = \text{set of all animals}$
@@ -15,16 +15,16 @@ Ex. $R(s) \equiv s$ is attending class today, with domain $S = \text{set of all 
 Ex. $T(y) \equiv (y^2 = 2)$ with domain $\mathbb{R} = \text{set of real numbers}$
 
 <b>Def:</b> The <u>truth set</u> of predicate $P(x)$ with domain $D$ is the set of a
-ll things in $D$ which when plugged into $P(x)$ output a true [[Statements]].
+ll things in $D$ which when plugged into $P(x)$ output a true [[Statement]].
 
 Ex: $M(y) \equiv (y^2 = 4)$ with domain $\mathbb{R} = \text{set of real numbers}$. The truth set of $M = \{2, -2\}$
 
->How can we make a predicate $P(x)$ with domain $D$ into a [[Statements]]?
+>How can we make a predicate $P(x)$ with domain $D$ into a [[Statement]]?
 
 1. Plug something from the domain in!
 	1. $P(x) \equiv x$ is a cat with domain $D = \{animals\}$
-	2. $P(\text{louie})$ is a [[Statements]]
-	3. $P(\text{Valvo})$ is also a [[Statements]]
+	2. $P(\text{louie})$ is a [[Statement]]
+	3. $P(\text{Valvo})$ is also a [[Statement]]
 2. Quantify on what range you are claiming the predicate to be true.
 	1. For all $x$ in $\{\text{animals}\}$, $P(x)$ $\rightarrow$ Range we're claiming predicate works on.
 	2. There exists an $x$ in $\{\text{animals}\}$ such  that $P(x)$ is true.
@@ -32,9 +32,9 @@ Ex: $M(y) \equiv (y^2 = 4)$ with domain $\mathbb{R} = \text{set of real numbers}
 # Quantifiers
 ### Universal Quantifier
 $\forall$ - "For all", "For every", "For each", "For any"
-Used to make <u>universal [[[[Statements]]]]]s</u>
+Used to make <u>universal [[Statement]]s</u>
 
->Can use to make <u>universal [[[[Statements]]]]]s</u>, which is any [[Statement]] of the form, $\forall x \in D, P(x)$
+>Can use to make <u>universal [[Statement]]s</u>, which is any [[Statement]] of the form, $\forall x \in D, P(x)$
 
 Ex. | 
 	(a) $\forall p \in \{ \text{people in this class}\}$, p likes math $\equiv T$
@@ -42,7 +42,7 @@ Ex. |
 	(c) Each Formula 1 team has 2 drivers. $\equiv \forall t \in \{\text{Formula 1 teams}\}$, $Q(t)$ where $Q(t) \equiv t$ has 2 drivers
 	(d) For any pen in my bag, it is clickable -> $\forall x \in \{\text{Pens in my bag}\}$, x is clickable 
 
-### How to Prove a Universal [[[[Statements]]]]] is True:
+### How to Prove a Universal [[Statement]] is True:
 <u>Claim:</u> (d)
 <u>Proof:</u> Consider a pen $x \in \{\text{black pen, blue pen, red pen, purple pen}\}$.  Proceed by dividing into cases.
 	<u>Case 1:</u> $x$ is the black pen. -> WTS: $x$ is clickable.  Not the black pen is clickable by observation.
@@ -52,7 +52,7 @@ Ex. |
 
 Thus, by the method of exhaustion, $\forall x \in \{\text{pens in my bag}\}$, x is clickable.
 
-### Universal Conditional [[Statements]]
+### Universal Conditional [[Statement]]
 - Any [[Quantifiers#Universal Quantifier | Universal Statement]] where the predicate is an [[Logical Operations#^600c2f |if-then]], int he form $\forall x \in D, P(x) \rightarrow Q(x)$
 
 (e) $\forall p \in \{\text{people on Earth}\}$, p in the class $\rightarrow$ p goes to VT.
