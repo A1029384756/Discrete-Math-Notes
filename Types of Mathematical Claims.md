@@ -37,3 +37,17 @@
 ### Chicken McNugget Problem
 <b>Set-Up:</b> McDonald's sells McNuggets in 4pc and 5pc packs.
 <b>Claim:</b> $\forall n \in \mathbb{Z}_{\geq 12}$, we can buy exactly $n$ nuggets from McDonald's.
+<b>Proof:</b> Proof by Strong Induction
+- <u>Base Cases</u>
+	- Let $n = 12$. Note $12 = 3*4$
+	- Let $n = 13$. Note $13 = 2*4 + 5*1$
+	- Let $n = 14$. Note $14 = 1*4 + 5*2$
+	- Let $n = 15$. Note $15 = 3*5$
+- <u>Inductive Step:</u>
+	- WTS $\forall n \geq 15, P(12) \land P(13) \land ... \land P(n) \rightarrow P(n+1)$
+	- Let $n$ be any arbitrary/particular integer greater than $15$.
+	- Assume $12$ through $n$ can all be made with $4pc$ and $5pc$.
+	- Consider $(n+1) -4 = n-3$.
+	- Since $n \geq 15$, $n-3 \geq 12$, thus, $n-3$ can be made with $4pc$ and $5pc$ packs, ie. $n-3=4k+5l$.
+	- Then, $n+1=(n-3)+4 = 4k+5l+4=4(k+1)+5l$.
+	- Hence, $n+1$ can be made with $4pc$ and $5pc$ packs.
