@@ -31,7 +31,7 @@ Prove that $\sum_{i=1}^{n}i=\frac{n(n+1)}{2}$.
 WTS: $\forall n \in \mathbb{Z} \geq 1, P(n):\sum_{i=1}^{n}i=\frac{n(n+1)}{2}$.
 1. (Base Case) WTS $P(1)$ is true.
 	- LHS = $\sum_{i=1}^{n}i=\frac{n(n+1)}{2} = \sum_{i=1}^{1}i=\frac{n(n+1)}{2} = 1$
-	- RHS = $\frac{n(n+1)}{2}=\frac{1(1+1)}{2}=\frac{2}{2}=1
+	- RHS = $\frac{n(n+1)}{2}=\frac{1(1+1)}{2}=\frac{2}{2}=1$
 	- The $LHS=RHS$. So $P(1)$ is true.
 2. (Inductive Step) WTS: $\forall k \in \mathbb{Z} \geq 1, P(k) \rightarrow P(n+1)$
 	- WTS $\forall k \in \mathbb{Z} \geq 1, \sum_{i=1}^{k}i=\frac{k(k+1)}{2} \rightarrow \sum_{i=1}^{k+1}i=\frac{(k+1)((k+1)+1)}{2}$
