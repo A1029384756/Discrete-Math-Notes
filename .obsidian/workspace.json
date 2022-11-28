@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Mathematical Claims.md",
+                "file": "Compound Statements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5228d2b5fb94eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5435630c5f5ebc27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subsets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Mathematical Claims.md",
+                "file": "Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Mathematical Claims.md",
+                "file": "Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Mathematical Claims.md"
+                "file": "Sets.md"
               }
             }
           }
@@ -136,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "898b201349437b85",
+  "active": "a5228d2b5fb94eae",
   "lastOpenFiles": [
+    "Subsets.md",
+    "Sets.md",
+    "Compound Statements.md",
+    "Types of Mathematical Claims.md",
     "Proof by Contrapositive.md",
     "Proof by Contradiction.md",
     "Mathematical Induction.md",
     "Sequences and Series.md",
     "Logical Operations.md",
-    "Logical Equivalence.md",
-    "Indirect Proof.md",
-    "Mathematical Proofs.md",
-    "Direct Proof.md",
-    "Divisibility.md"
+    "Logical Equivalence.md"
   ]
 }
