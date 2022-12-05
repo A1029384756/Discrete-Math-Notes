@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a179d1b778a0eda",
+        "id": "3bf56f28a4301703",
         "type": "tabs",
         "children": [
           {
-            "id": "898b201349437b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compound Statements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5228d2b5fb94eae",
+            "id": "45ffac04681e248c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5435630c5f5ebc27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subsets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a5228d2b5fb94eae",
+  "active": "45ffac04681e248c",
   "lastOpenFiles": [
+    "Set Operations.md",
     "Subsets.md",
-    "Sets.md",
     "Compound Statements.md",
-    "Types of Mathematical Claims.md",
-    "Proof by Contrapositive.md",
+    "Sets.md",
+    "Modular Arithmetic.md",
     "Proof by Contradiction.md",
-    "Mathematical Induction.md",
-    "Sequences and Series.md",
-    "Logical Operations.md",
-    "Logical Equivalence.md"
+    "Primes.md",
+    "Proof by Contrapositive.md",
+    "Quantifiers.md",
+    "Rational Numbers.md"
   ]
 }
